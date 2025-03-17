@@ -17,25 +17,25 @@ This document provides a comprehensive guide for installing **LabVIEW**, includi
 4. **Install VI Package Manager**: This will be installed automatically. Choose `3D Express` or any other required software.
 5. **Completion**: LabVIEW is now installed and ready for development.
 
-## 🎛 LabVIEW Overview
+## LabVIEW Overview
 
 LabVIEW uses a **graphical programming language** called **G**, where programs are created using **Block Diagrams**.
 
 ### 🔹 Key Components
 
-#### 1️⃣ **Front Panel & Controls Palette**
+#### 1️ **Front Panel & Controls Palette**
 
 - The **Controls Palette** is available on the **Front Panel** and contains various controls and indicators for building the user interface.
 - It provides UI elements such as **numeric controls, Boolean controls, strings, graphs, arrays, and clusters**.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt Text](images/frontpanel.png)
 
-#### 2️⃣ **Block Diagram & Function Palette**
+#### 2️ **Block Diagram & Function Palette**
 
 - The **Function Palette** is used for programming and is available on the **Block Diagram**.
 - It includes categories like **Numeric, Array, Time and Dialog, Waveform, Measurement I/O, Signal Processing, and Data Connectivity**. <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt Text](images/blockdiag.png)
 
-#### 3️⃣ **Tool Palette**
+#### 3️ **Tool Palette**
 
 - Allows users to **create, modify, and debug Virtual Instruments (VIs)**.
 - Shortcut: `Shift + Right Click`
@@ -57,7 +57,7 @@ LabVIEW uses a **graphical programming language** called **G**, where programs a
 
 ## 🛠 Important LabVIEW Functions
 
-## ✅ **Formula Node**
+## **Formula Node**
 
 A **Formula Node** allows users to write text-based formulas inside LabVIEW’s Block Diagram.
 
@@ -112,8 +112,8 @@ Contains:
 - **Timing Functions** (for controlling execution flow) <br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt Text](images/Timing.png)
 
-## ✅ Conclusion
+## Conclusion
 
-This guide covers the complete **LabVIEW installation process**, an **overview of LabVIEW**, and a **detailed breakdown of its components**, including the **Front Panel, Block Diagram, and Tool Palette**. With this knowledge, users can efficiently start developing in LabVIEW. <br><br><br><br><br><br><br><br><br><br><br>
+This guide covers the complete **LabVIEW installation process**, an **overview of LabVIEW**, and a **detailed breakdown of its components**, including the **Front Panel, Block Diagram, and Tool Palette**. With this knowledge, users can efficiently start developing in LabVIEW. <br>
 
-                              *****************************
+**Authored by**: <spam style = "color:grey;"><i>Yamini Pothana</i></spam>
